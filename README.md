@@ -225,7 +225,7 @@
       <td nowrap><a href="https://libviobd.com" target="_blank" rel="noopener noreferrer">LIBVIO</a></td>
       <td nowrap>海外影视的老牌网站，发布页www.libvio.app</td>
       <td align="center" nowrap>🌟&#8288;🌟&#8288;🌟&#8288;🌟</td>
-      <td align="center" nowrap><!-- availability:libvio -->🟢&#8288;可&#8288;访问<!-- /availability:libvio --></td>
+      <td align="center" nowrap><!-- availability:libvio -->🔴&#8288;无法&#8288;访问<!-- /availability:libvio --></td>
       <td align="center" nowrap><!-- availability-date:libvio -->2026&#8209;07&#8209;17<!-- /availability-date:libvio --></td>
     </tr>
     <tr>
